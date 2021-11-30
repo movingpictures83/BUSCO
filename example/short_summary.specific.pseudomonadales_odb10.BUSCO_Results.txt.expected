@@ -1,0 +1,29 @@
+# BUSCO version is: 5.2.0 
+# The lineage dataset is: pseudomonadales_odb10 (Creation date: 2020-03-06, number of genomes: 159, number of BUSCOs: 782)
+# Summarized benchmarking in BUSCO notation for file /disk/delphi/users/tcickovs/PluMA/plugins/BUSCO/example/input.fasta
+# BUSCO was run in mode: genome
+# Gene predictor used: prodigal
+
+	***** Results: *****
+
+	C:99.5%[S:99.4%,D:0.1%],F:0.4%,M:0.1%,n:782	   
+	778	Complete BUSCOs (C)			   
+	777	Complete and single-copy BUSCOs (S)	   
+	1	Complete and duplicated BUSCOs (D)	   
+	3	Fragmented BUSCOs (F)			   
+	1	Missing BUSCOs (M)			   
+	782	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	prodigal: 2.6.3
+	metaeuk: 0d212351f5b4c5264aa8c70a57b24db237641d57
+	sepp: 4.5.1
+
+Placement file versions:
+	list_of_reference_markers.bacteria_odb10.2019-12-16.txt
+	tree.bacteria_odb10.2019-12-16.nwk
+	tree_metadata.bacteria_odb10.2019-12-16.txt
+	supermatrix.aln.bacteria_odb10.2019-12-16.faa
+	mapping_taxids-busco_dataset_name.bacteria_odb10.2019-12-16.txt
+	mapping_taxid-lineage.bacteria_odb10.2019-12-16.txt

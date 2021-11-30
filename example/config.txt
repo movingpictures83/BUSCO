@@ -1,0 +1,2 @@
+Prefix plugins/BUSCO/example/
+Plugin BUSCO inputfile parameters.txt outputfile BUSCO_Results
