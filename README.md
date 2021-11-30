@@ -3,6 +3,7 @@
 # Input: TXT
 # Output: DIR
 # Tested with: PluMA 1.1, GCC 4.8.4
+# Dependencies: BUSCO 5.2
 
 Assess gene assembly and/or annotation using BUSCO (Simao et al, 2015)
 
